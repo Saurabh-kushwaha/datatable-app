@@ -1,0 +1,14 @@
+.main{
+  padding: 25px;
+}
+.main table{
+  margin: auto;
+}
+
+.main th , .main td{
+  padding: 10px 30px;
+}
+.main tr{
+  border-bottom: 1px solid gray;
+}
+
